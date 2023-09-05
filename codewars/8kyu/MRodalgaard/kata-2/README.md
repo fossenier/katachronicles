@@ -21,6 +21,6 @@ Names given are always valid strings.
 
 I wrote: solution.c
 
-I didn't write: test.c
+I didn't write:
 
-I added to:
+I added to: test.c
