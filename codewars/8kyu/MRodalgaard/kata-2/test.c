@@ -6,6 +6,10 @@ char *are_you_playing_banjo(const char *);
 void do_test(char *testCase, char *expected)
 {
   char *actual = are_you_playing_banjo(testCase);
+  if (actual == NULL)
+  {
+    cr_assert_fail("Expected non-null result");
+  }
   cr_assert_str_eq(actual, expected);
 
   free(actual);
