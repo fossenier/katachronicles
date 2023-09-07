@@ -17,8 +17,7 @@ Complete the solution so that it reverses the string passed into it.
 
 ### Implementation:
 
-I wrote: solution.go
-solution_test.go
+I wrote: solution.go && solution_test.go
 
 I didn't write:
 
