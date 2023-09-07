@@ -1,6 +1,8 @@
+Sep 06 2023
+
 ### Title:
 
-Are You Playing Banjo?
+[Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
 
 ### Author:
 
