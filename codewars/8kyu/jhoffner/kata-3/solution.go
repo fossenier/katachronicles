@@ -1,4 +1,4 @@
-package main
+package solution
 
 func Solution(word string) string {
 	runes := []rune(word)
