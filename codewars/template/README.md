@@ -1,4 +1,4 @@
-date
+3LetterMonth 2NumberDay 4NumberYear
 
 ### Title:
 
