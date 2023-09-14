@@ -16,12 +16,12 @@ Write a select statement that takes name from person table and return "Hello, <n
 
 ### Implementation:
 
-I wrote:
+I wrote: solution.sql, import.csv, kata-5.sql, test.rb
 
-I didn't write: test.rb
+I didn't write:
 
 I modified:
 
 ### Notes:
 
-I don't have the database from the website, so I'm not going to bother trying to get it functional locally.
+I don't have the database from the website, so I made my own.
