@@ -1,4 +1,4 @@
-date
+3letterMonth 2digitDay 4digitYear
 
 ### Title:
 
@@ -19,3 +19,7 @@ I wrote:
 I didn't write:
 
 I modified:
+
+### Notes:
+
+notes
