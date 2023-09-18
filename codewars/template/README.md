@@ -1,4 +1,4 @@
-3letterMonth 2digitDay 4digitYear
+3LetterMonth 2DigitDay 4DigitYear
 
 ### Title:
 
