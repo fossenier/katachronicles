@@ -1,7 +1,7 @@
 language, completed, kyu, latest
-C, 2, 7,
-Go, 1, 8, 
-JavaScript, 1, 8, 
-Python, 1, 8,
-SQL, 1, 8
-Ruby,
+C, 2, 7, descending order
+Go, 2, 6, counting duplicates
+JavaScript, 1, 8, determine offspring
+Python, 1, 8, beginner series #2 clock
+SQL, 1, 8, returning strings
+Ruby, 0, 8
