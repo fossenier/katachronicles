@@ -7,5 +7,8 @@
 # Un-ignore all files with an extension
 !*.*
 
-# Ignore all directories with the name "__pycache__"
+# Python compiled stuff
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
