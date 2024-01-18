@@ -4,7 +4,7 @@ Go, 1, 8
 JavaScript, 1, 8 
 Python, 1, 8
 SQL, 1, 8
-Ruby,
+Ruby, 1, 7
 
 
 
