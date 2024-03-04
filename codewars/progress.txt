@@ -1,5 +1,6 @@
 language, completed, kyu
 C, 2, 7
+C++, 1, 6
 Go, 1, 8 
 JavaScript, 1, 8 
 Python, 1, 8
@@ -15,3 +16,4 @@ kata, language, date, kyu
 4, Python, Sep 07 2023, 8
 5, SQL, Sep 08 2023, 8
 6, C, Sep 17 2023, 7
+7, C++, Mar 04 2024, 6
