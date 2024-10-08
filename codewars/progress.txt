@@ -3,7 +3,7 @@ C, 2, 7
 C++, 4, 5
 Go, 1, 8 
 JavaScript, 1, 8 
-Python, 2, 6
+Python, 3, 6
 SQL, 1, 8
 Ruby, 1, 7
 
@@ -20,4 +20,5 @@ kata, language, date, kyu
 8, C++, Mar 04 2024, 6
 9, C++, Mar 05 2024, 6
 10, C++, Mar 05 2024, 5
+11, Python, Oct 08 2024, 6
 11, Python, Oct 08 2024, 6
